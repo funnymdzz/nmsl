@@ -1,0 +1,7 @@
+{
+  "name": "nmsl",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "https://nmslhrhr.herokuapp.com"}
+  ]
+}
