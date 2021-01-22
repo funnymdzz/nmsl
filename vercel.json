@@ -2,6 +2,6 @@
   "name": "nmsl",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://nmslhrhr.herokuapp.com/7b193f93-f2e4-49d4-9682-0f6bbcc619f1-vless/$1"}
+    {"src": "/vme/(.*)","dest": "https://nmslhrhr.herokuapp.com/7b193f93-f2e4-49d4-9682-0f6bbcc619f1-vmess/$1"}
   ]
 }
